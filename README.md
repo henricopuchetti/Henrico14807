@@ -1,4 +1,4 @@
-selo MIT
+![GitHub](https://img.shields.io/github/license/henricopuchetti/Henrico14807)
 
 # Henrico14807
 ## Fiap School - Técnico de Informática - 2EMIA
